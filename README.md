@@ -79,6 +79,7 @@ python src/main.py
 - O código Fortran original é mantido apenas como **referência histórica** e para validação.  
 - A versão Python será o código **principal e atualizado**.  
 - Sempre que possível, funções específicas do `MSFLIB` ou outras bibliotecas legadas serão substituídas por equivalentes Python.
+- A versão originar disponibilizada pelo grupo PC-PROGRESS pode ser visualizada neste [link](https://www.pc-progress.com/en/Default.aspx?H1D-description#k8)
 
 ---
 

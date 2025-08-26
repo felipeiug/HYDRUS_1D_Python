@@ -1,0 +1,7 @@
+NumNPD =1001
+NMatD  =20
+NTabD  =100
+NObsD  =100
+NSD    =11
+NUnitD =7
+NPD    =1000
